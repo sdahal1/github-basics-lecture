@@ -2,3 +2,7 @@ Nuggets
 Lakers
 Cavs
 Heat
+
+Bulls
+Knicks
+Warriors
